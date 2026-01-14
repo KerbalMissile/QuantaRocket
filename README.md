@@ -54,5 +54,11 @@ I'm building this solo right now, but if you're interested in contributing, chec
 
 ---
 
+### Socials
+
+[Discord](https://discord.gg/mFkmssJB8p)
+
+---
+
 <img width="675" height="164" alt="MadeInCanadaSignature" src="https://github.com/user-attachments/assets/d94cfa05-e41b-4857-9e04-45384a035e5a" />
 
