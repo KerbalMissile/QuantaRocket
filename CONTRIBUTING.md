@@ -8,13 +8,13 @@ Even though I'm just one person, I want to make this project awesome, and your h
 
 ## How You Can Help
 
-* 🐞 **Report Bugs** – If something breaks or doesn’t work as expected, let me know!
+* 🐞 **Report Bugs** – If something breaks or doesn’t work as expected, let me know, through an issue!
 
-* 💡 **Suggest Features** – Got an idea for a cool part or simulation? Tell me!
+* 💡 **Suggest Features** – Got an idea for a cool part or simulation? Tell me, make an issue and pick the suggestion template!
 
 * 🧑‍💻 **Code Contributions** – If you know Python or CustomTkinter, feel free to fork and submit a pull request.
 
-* 📖 **Improve Docs** – If you see a typo or something confusing, help me fix it!
+* 📖 **Improve Docs** – If you see a typo or something confusing, help me fix it, either through an issue or pull request!
 
 ---
 
@@ -42,7 +42,7 @@ If you're new to GitHub or open source, don’t worry, I was too! Just try your 
 
 * Use `snake_case` for variables and functions.
 
-* Be kind in your PR descriptions, we're all learners here!
+* Be kind in your PR, Issue, or Suggestion descriptions, we're all learners here!
 
 ---
 
@@ -52,5 +52,6 @@ Feel free to open an issue or start a discussion. I’m still learning too, so a
 
 
 Thanks again for stopping by! 🚀
+
 
 
