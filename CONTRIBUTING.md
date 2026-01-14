@@ -2,7 +2,7 @@
 
 Hey, thanks for checking out QuantaRocket! I'm KerbalMissile, and I'm building this project by myself right now, but I’m open to help from anyone who thinks this is cool.
 
-Even though I'm just one person (and I'm only 14 😅), I want to make this project awesome, and your help would mean the world!
+Even though I'm just one person, I want to make this project awesome, and your help would mean the world!
 
 ---
 
@@ -49,5 +49,6 @@ If you're new to GitHub or open source, don’t worry – I was too! Just try yo
 ## Questions?
 
 Feel free to open an issue or just shoot me a message. I’m still learning too, so any advice or tips are welcome.
+
 
 Thanks again for stopping by! 🚀
