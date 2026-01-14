@@ -4,7 +4,7 @@
 
 # QuantaRocket 🚀
 
-Hey! I'm KerbalMissile, and I'm building **QuantaRocket** – a modern rocket simulator inspired by OpenRocket, but with way more customization and advanced features.
+Hey! I'm KerbalMissile, and I'm building **QuantaRocket** a modern rocket simulator inspired by OpenRocket, but with way more customization and advanced features.
 
 Think of it like OpenRocket, but imagine if you could design **realistic landing gear**, **custom avionics bays**, and even simulate how drag changes when your gear deploys mid-flight. That's what QuantaRocket is aiming for!
 
@@ -24,13 +24,13 @@ Think of it like OpenRocket, but imagine if you could design **realistic landing
 
 ### Why QuantaRocket?
 
-Because every piece of your rocket matters. Whether it's a tiny sensor or a massive landing leg, QuantaRocket treats each part as a "quantum" of your design – hence the name!
+Because every piece of your rocket matters. Whether it's a tiny sensor or a massive landing leg, QuantaRocket treats each part as a "quantum" of your design, hence the name!
 
 ---
 
 ### License
 
-This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU General Public License v3.0**, see the [LICENSE](LICENSE) file for details.
 
 ---
 
