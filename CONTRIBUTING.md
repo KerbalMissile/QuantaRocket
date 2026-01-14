@@ -30,7 +30,7 @@ Even though I'm just one person, I want to make this project awesome, and your h
 
 5. Submit a pull request
 
-If you're new to GitHub or open source, don’t worry – I was too! Just try your best and I’ll help you out.
+If you're new to GitHub or open source, don’t worry, I was too! Just try your best and I’ll help you out.
 
 ---
 
@@ -42,7 +42,7 @@ If you're new to GitHub or open source, don’t worry – I was too! Just try yo
 
 * Use `snake_case` for variables and functions.
 
-* Be kind in your PR descriptions – we're all learners here!
+* Be kind in your PR descriptions, we're all learners here!
 
 ---
 
@@ -52,3 +52,4 @@ Feel free to open an issue or just shoot me a message. I’m still learning too,
 
 
 Thanks again for stopping by! 🚀
+
