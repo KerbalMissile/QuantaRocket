@@ -8,6 +8,8 @@ Hey! I'm KerbalMissile, and I'm building **QuantaRocket** a "more modern" rocket
 
 Think of it like OpenRocket, but imagine if you could design **realistic landing gear**, **custom avionics bays**, and even simulate how drag changes when your gear deploys mid-flight. That's what QuantaRocket is aiming for!
 
+It is also meant to be similar to OpenRocket for people moving from OR to QR, so that the transition and learning curve would be as short as possible.
+
 ### Features (Planned)
 
 * 🧠 **Advanced Physics Engine** – From scratch, with custom drag states.
