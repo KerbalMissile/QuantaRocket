@@ -1,0 +1,34 @@
+// When editing please remove these comments as they are invalid in .json files
+
+[
+  {
+    "id": "ID_HERE", // Unique identifier for the part in the code
+    "name": "DISPLAY_NAME_HERE", // The display name in QuantaRocket
+    "type": "TYPE_HERE", // Type of part, nose_cone, body_tube, etc.
+    "diameter_mm": 13, // Diameter in millimeters
+    "length": 40,  // Length in millimeters
+    "shape": "SHAPE_HERE", // Valid options are conic or ogive for now
+    "material": "plastic",
+    "mass": 3, // Mass in grams
+    "advanced": {
+      "nose_clay_weight_g": 0.0 // Weight of clay in grams for simulation
+    },
+    "source": "https://www.allrockets.ca/Build/Nose-Cones",
+    "notes": "Small BT-5 ogive. Values are estimated; verify with part spec."
+  }, // Make sure to add a comma here if you are adding more parts
+  {
+    "id": "ID_HERE", // Unique identifier for the part in the code
+    "name": "DISPLAY_NAME_HERE", // The display name in QuantaRocket
+    "type": "TYPE_HERE", // Type of part, nose_cone, body_tube, etc.
+    "diameter_mm": 13, // Diameter in millimeters
+    "length": 40,  // Length in millimeters
+    "shape": "SHAPE_HERE", // Valid options are conic or ogive for now
+    "material": "plastic",
+    "mass": 3, // Mass in grams
+    "advanced": {
+      "nose_clay_weight_g": 0.0 // Weight of clay in grams for simulation
+    },
+    "source": "https://www.allrockets.ca/Build/Nose-Cones",
+    "notes": "Small BT-5 ogive. Values are estimated; verify with part spec."
+  }
+]
