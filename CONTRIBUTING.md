@@ -48,8 +48,9 @@ If you're new to GitHub or open source, don’t worry, I was too! Just try your 
 
 ## Questions?
 
-Feel free to open an issue or just shoot me a message. I’m still learning too, so any advice or tips are welcome.
+Feel free to open an issue or start a discussion. I’m still learning too, so any advice or tips are welcome.
 
 
 Thanks again for stopping by! 🚀
+
 
