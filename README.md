@@ -4,7 +4,7 @@
 
 # QuantaRocket 🚀
 
-Hey! I'm KerbalMissile, and I'm building **QuantaRocket** a modern rocket simulator inspired by OpenRocket, but with way more customization and advanced features.
+Hey! I'm KerbalMissile, and I'm building **QuantaRocket** a "more modern" rocket simulator inspired by OpenRocket, but with way more customization and advanced features.
 
 Think of it like OpenRocket, but imagine if you could design **realistic landing gear**, **custom avionics bays**, and even simulate how drag changes when your gear deploys mid-flight. That's what QuantaRocket is aiming for!
 
