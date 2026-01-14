@@ -48,4 +48,4 @@ This project is licensed under the **GNU General Public License v3.0**, see the 
 
 ### Contributing
 
-I'm building this solo right now, but if you're interested in helping out, check out [CONTRIBUTING.md](CONTRIBUTING.md)!
+I'm building this solo right now, but if you're interested in contributing, check out [CONTRIBUTING.md](CONTRIBUTING.md)!
