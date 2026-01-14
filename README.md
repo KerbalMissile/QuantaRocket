@@ -22,6 +22,18 @@ Think of it like OpenRocket, but imagine if you could design **realistic landing
 
 ---
 
+## Parts Databases
+
+QuantaRocket comes with an **official parts database** maintained by me, KerbalMissile. These parts are tested and verified for accuracy.
+
+There is also a **community parts database** maintained separately by the QuantaRocket community. You can choose to load this database alongside or instead of the official one. It will be downloaded automatically on install of QuntaRocket, but it will be separated in the menus to avoid confusion between the two.
+
+> ⚠️ **Warning:** Community parts may not be as accurate or tested. Use them at your own risk!
+
+You can find the community database here: [QuantaRocket-Community-Database](https://github.com/KerbalMissile/QuantaRocket-Community-Database)
+
+---
+
 ### Why QuantaRocket?
 
 Because every piece of your rocket matters. Whether it's a tiny sensor or a massive landing leg, QuantaRocket treats each part as a "quantum" of your design, hence the name!
