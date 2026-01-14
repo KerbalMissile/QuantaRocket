@@ -54,5 +54,5 @@ I'm building this solo right now, but if you're interested in contributing, chec
 
 ---
 
-<img width="743" height="192" alt="MadeInCanadaSignature" src="https://github.com/user-attachments/assets/bc00ddd8-d1f6-4a3b-81af-1d3e197c072d" />
+<img width="675" height="164" alt="MadeInCanadaSignature" src="https://github.com/user-attachments/assets/d94cfa05-e41b-4857-9e04-45384a035e5a" />
 
