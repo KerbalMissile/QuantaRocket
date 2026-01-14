@@ -51,3 +51,8 @@ This project is licensed under the **GNU General Public License v3.0**, see the 
 ### Contributing
 
 I'm building this solo right now, but if you're interested in contributing, check out [CONTRIBUTING.md](CONTRIBUTING.md)!
+
+---
+
+<img width="743" height="192" alt="MadeInCanadaSignature" src="https://github.com/user-attachments/assets/bc00ddd8-d1f6-4a3b-81af-1d3e197c072d" />
+
